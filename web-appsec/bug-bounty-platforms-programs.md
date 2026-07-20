@@ -10,7 +10,9 @@
 
 {% embed url="https://bugv.io/" %}
 
-{% embed url="https://github.com/swisscom/bugbounty/blob/main/scope/inscope.txt" %}
+{% @github-files/github-code-block url="https://github.com/swisscom/bugbounty/blob/main/scope/inscope.txt" %}
+
+{% embed url="https://issuehunt.io" %}
 
 {% embed url="https://support.phrendly.com/hc/en-us/articles/217857288-Do-you-have-a-bug-bounty-if-I-find-an-issue-with-your-site" %}
 
